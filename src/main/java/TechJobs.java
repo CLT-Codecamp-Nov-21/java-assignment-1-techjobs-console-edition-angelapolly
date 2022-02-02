@@ -129,7 +129,7 @@ public class TechJobs {
             for (Map.Entry<String, String> key : job.entrySet()) {
                 System.out.println(key.getKey() + ": " + key.getValue());
             }
-            System.out.print("*****");
+            System.out.print("*****\n");
         }
     }
 }
